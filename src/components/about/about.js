@@ -10,7 +10,7 @@ const About = (props) => {
                 <div className="grid-rows-1 grid grid-cols-2 md:grid-cols-1 items-center">
                     <div className="relative z-20 md:max-w-[480px]">
                         <div className="max-w-[350px] col:max-w-[350px]  text-center rounded-[10px] pb-[180px] bg-gradient-to-b to-[#1B1B19] from-[#2E2C1F] xl:ml-[20px] col:ml-0">
-                            <h2 className="text-[140px] col:text-[90px] text-[#FFE600] font-bold base-font">08</h2>
+                            <h2 className="text-[140px] col:text-[90px] text-[#FFE600] font-bold base-font">03</h2>
                             <span className="text-white text-[18px] font-normal ">Years of Experience</span>
                         </div>
                         <div className="absolute right-[170px] lg:right-[80px] col:right-0  bottom-10 max-w-[300px] col:max-w-[350px] px-[20px] py-[20px] rounded-[12px] z-10 bg-transparent flex items-center justify-center 

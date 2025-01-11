@@ -69,7 +69,7 @@ const About = (props) => {
                                 <div className="rounded-[12px] bg-[#1F1E1D] mt-[3px] mr-[3px] ml-[3px] p-10 lg:p-[20px] text-center ">
                                     <h3 className="font-bold text-[35px] text-white flex items-center justify-center"><span
                                         className="odometer" data-count="40">40</span>%</h3>
-                                    <p className="font-normal text-[16px] text-[#AD00FF]">ReactJS</p>
+                                    <p className="font-normal text-[16px] text-[#AD00FF]">Flutter</p>
                                 </div>
                             </li>
                         </ul>

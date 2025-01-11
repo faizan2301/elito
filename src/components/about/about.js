@@ -41,7 +41,7 @@ const About = (props) => {
                                 <div className="rounded-[12px] bg-[#1F1E1D] mt-[3px] mr-[3px] ml-[3px] p-10 lg:p-[20px] text-center ">
                                     <h3 className="font-bold text-[35px] text-white flex items-center justify-center"><span
                                         className="odometer" data-count="92">92</span>%</h3>
-                                    <p className="font-normal text-[16px] text-[#59C378]">Sketch</p>
+                                    <p className="font-normal text-[16px] text-[#59C378]">Notion</p>
                                 </div>
                             </li>
                             <li className="mx-[15px] rounded-[12px] mb-7 bg-gradient-to-t to-[#dd584f99] from-[#1f1e1c99] basis-[28.33%] lg:basis-[26%] col:basis-[40%]">
